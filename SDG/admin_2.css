@@ -1,0 +1,31 @@
+.navbar-custom {
+    background-color: #c80000;
+  }
+  
+  .container {
+    table-layout: auto;
+  
+      padding-top: 5%;
+      width:80%;
+      height:auto;
+      background-color: #fff;
+      border: 3px solid #c80000;
+      margin: 5% auto 5% auto;
+      border: 8px solid #c80000;
+      box-shadow: 0 15px 40px rgba(0, 0, 0, 0.5);
+      padding-bottom: 2%;
+  
+  
+  }
+  
+  .submit_btn {
+    font-size: 22px;
+          border-radius: 5px;
+          background-color: #c80000;
+          color: #fff;
+          margin-left: 45%;
+  }
+  
+  body{
+    font-family: 'Poppins-Regular', sans-serif;
+  }
